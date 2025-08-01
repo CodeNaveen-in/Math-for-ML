@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">📊 Mathematics for Machine Learning</h1>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="assets/images/maths.gif" alt="Maths Animation">
 </div>
 
